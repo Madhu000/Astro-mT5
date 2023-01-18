@@ -29,3 +29,16 @@ The main training procedure is: <br>
 ## Tesing
 After training, you can find the best checkpoint on the dev set according to the evaluation results.
 For this run <br> `python3 test.py`
+
+## Citation  <a name="cite"></a>
+Please cite our paper if it's helpful to you in your research.
+
+```bibtext 
+@article{ghosh2022astro,
+  title={Astro-mT5: Entity Extraction from Astrophysics Literature using mT5 Language Model},
+  author={Ghosh, Madhusudan and Santra, Payel and Iqbal, Sk Asif and Basuchowdhuri, Partha},
+  journal={AACL-IJCNLP 2022},
+  pages={100},
+  year={2022}
+}
+```
